@@ -38,3 +38,5 @@ Aucun pré-requis particulier, un navigateur web moderne suffit.
 - Personnalisation des couleurs et du style
 - Ajout de fonctionnalités en JavaScript (ex : menu dynamique, sous-menus)
 
+![image](https://github.com/user-attachments/assets/e744db28-5e13-43b7-a033-558ccad0ad5c)
+
